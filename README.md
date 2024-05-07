@@ -16,3 +16,8 @@ Welcome to the Disney Plus Hotstar Clone project! This project is a clone of the
 - **CSS**: Stylesheets for designing the layout and appearance.
 - **JavaScript**: Programming language for implementing interactivity, carousel functionality, and card hover details.
 ### PROJECT LINK: https://sriharivas5.github.io/Disney-Plus-Clone/
+
+
+https://github.com/Sriharivas5/Disney-Plus-Clone/assets/155137670/33b0681b-44cb-4680-a73c-37eb90b137a4
+
+
